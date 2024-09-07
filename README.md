@@ -1,3 +1,4 @@
+## Imersão Dev google Gemini - Alura 2024
 ## **README.md - Procurando por um filme? Nós te ajudamos!** 
 
 **O que faz essa aplicação?**
@@ -41,3 +42,4 @@ Essa aplicação ainda está em desenvolvimento, então pode ter alguns bugs ou 
 Agradecemos a todos que contribuíram para esse projeto! Sem vocês, nada seria possível. ❤️
 
 **Divirta-se!** 
+Por @Age Chabane
