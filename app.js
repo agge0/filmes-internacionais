@@ -38,7 +38,7 @@
                     <h3>Gênero: ${dado.genero}</h3>
                     <h4>Snopse</h4>
                     <p class="descricao-meta">${dado.sinopse}</p>
-                    <a href="${dado.link}">Trailer</a>
+                    <a href="${dado.link}" targer="_blank">Trailer</a>
                 </div>
                 `
             }
