@@ -1,6 +1,6 @@
     const pesquisar = () => {
         let campoPesquisa = document.getElementById("pesquisa").value
-        
+        // Toquei aqui
         let htmlInjetado = "";
 
         campoPesquisa = campoPesquisa.toLocaleLowerCase()
